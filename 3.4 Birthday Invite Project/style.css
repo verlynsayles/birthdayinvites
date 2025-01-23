@@ -1,0 +1,13 @@
+.home_button{
+    background-color: aqua;
+}
+#button{
+    text-decoration: none;
+}
+
+p{
+    color:yellow;
+}
+.inner-box p{
+    color:white; 
+}
